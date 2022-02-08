@@ -1,0 +1,17 @@
+h1, p{
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: Open Sans Condensed;
+    color: #666666;
+    font-size: 100px;
+}
+
+#deyoung-pic{
+    width: 60vw;
+}
+
+.body-text{
+    color: red;
+}
